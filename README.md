@@ -2,6 +2,8 @@
 
 This project is my experimental project mainly used to study physical animation and self-balancing ragdoll
 
+The main gameplay of this game is to place NPCs and watch the war between NPCs
+
 The concept of self-balancing ragdolls comes from Rockstar’s ragdoll system, 
 which makes NPC ragdolls very effective in the two games Red Dead Redemption and Max Payne.
 
