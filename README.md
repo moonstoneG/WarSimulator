@@ -7,3 +7,7 @@ which makes NPC ragdolls very effective in the two games Red Dead Redemption and
 
 VIDEO DEMO FOR PHYSICAL ANIMATIONS:
 https://youtu.be/v_1RptgRmR0
+
+
+GIF FOR SELF-BALANCING RAGDOLL
+![20231221210322_rec_](https://github.com/moonstoneG/WarSimulator/assets/76591064/6140b998-ae14-41d4-ada2-528f200a485e)
